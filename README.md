@@ -1,8 +1,4 @@
-<html>
-	<head>
-		<title>My Resume</title>
-	</head>
-	<body>
+
 
 			<center>STUDENT RESUME</center>
 			<hr color="000000" size="4"</hr>

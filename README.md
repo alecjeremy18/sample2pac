@@ -3,7 +3,7 @@
 		<title>My Resume</title>
 	</head>
 	<body>
-			<center><img src="feutech.png" height=15% width=50%></center></font>
+
 			<center>STUDENT RESUME</center>
 			<hr color="000000" size="4"</hr>
 			<h4>Personal Information</h4>
